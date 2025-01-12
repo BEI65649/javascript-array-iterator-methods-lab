@@ -210,7 +210,7 @@ console.log('Exercise 3 correct result: ', [
 
 
 /* 
-Exercise 4: Array.prototype.find()
+Exercise 4: Array.prototype.find(git
 
 Use Array.prototype.find() to identify the inventor with the first name 'Ada' 
 from an array of inventor objects
